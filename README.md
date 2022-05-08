@@ -7,7 +7,7 @@
 
 
 ## Solution
-The deliveries are all named "Homework n" inside their respective folders.
+The deliveries are all named "Homework n" inside their respective folders. Solutions are implemented in **Python** using **Keras**, along with some **Matlab** code for preprocessing images.
 Here a brief summary of the solutions:
 
 ### Homework 1
