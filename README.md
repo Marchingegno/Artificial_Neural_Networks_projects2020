@@ -24,7 +24,7 @@ Since the network needs to distinguish between terrain and plant, and the first 
 
 The best model is the VGG encoder and its mirrored structure as decoder with l2 normalization, reaching 69% accuracy.
 
-## Homework 3
+### Homework 3
 We encoded the questions with a Keras tokenizer, after removing common words, then create a CustomDataset object that returns a traning batch composed of the encoded questions and corresponding images.
 We used Xception as a base and customized it, merging the input from the question to the encoded image, reaching an accuracy of 62%.
 
